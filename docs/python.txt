@@ -1,0 +1,7 @@
+Python is a high-level programming language known for its simple and readable syntax.
+
+Python is commonly used for backend development, data analysis, automation, machine learning, and artificial intelligence.
+
+Python uses indentation to define blocks of code instead of curly braces.
+
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
